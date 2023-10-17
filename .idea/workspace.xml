@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49c4455-2756-420a-ad3f-9cb1fa1b8645" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/MinimumFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Java/Chapter 5&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RandomIntegers">
+  <component name="RunManager" selected="Application.MaximumFinder">
     <configuration name="MaximumFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaximumFinder" />
       <module name="Chapter 6" />
@@ -61,8 +62,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomIntegers" />
         <item itemvalue="Application.MaximumFinder" />
+        <item itemvalue="Application.RandomIntegers" />
       </list>
     </recent_temporary>
   </component>
