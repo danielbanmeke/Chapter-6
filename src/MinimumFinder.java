@@ -11,7 +11,7 @@ public class MinimumFinder {
 
         double result = minimum(number1, number2, number3);
 
-        System.out.printf("Minimum is ", + result);
+        System.out.println("Minimum is " + result);
     }
 
     public static double minimum (double x, double y, double z){
@@ -24,7 +24,6 @@ public class MinimumFinder {
             minimumValue = z;
 
         return minimumValue;
-
     }
 
 }
