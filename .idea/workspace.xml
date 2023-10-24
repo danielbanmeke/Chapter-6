@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49c4455-2756-420a-ad3f-9cb1fa1b8645" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +45,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Java/Calculator&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Craps">
+  <component name="RunManager" selected="Application.Scope">
     <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Craps" />
-      <module name="Chapter 6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumFinder" />
       <module name="Chapter 6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
+      <module name="Chapter 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scope" />
         <item itemvalue="Application.Craps" />
         <item itemvalue="Application.RollDie" />
         <item itemvalue="Application.RandomIntegers" />
         <item itemvalue="Application.MinimumFinder" />
-        <item itemvalue="Application.MaximumFinder" />
       </list>
     </recent_temporary>
   </component>
