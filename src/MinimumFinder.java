@@ -4,7 +4,7 @@ public class MinimumFinder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter 3 floating-point values separated by spaces: ");
+        System.out.print("Enter 3 floating-point values separated by spaces: ");
         double number1 = input.nextDouble();
         double number2 = input.nextDouble();
         double number3 = input.nextDouble();
