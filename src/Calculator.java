@@ -18,5 +18,7 @@ public class Calculator {
             System.out.println(d1 * d2);
         else if (op == '/')
             System.out.println(d1 / d2);
+        else
+            System.out.println("Invalid operator");
     }
 }

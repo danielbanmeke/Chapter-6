@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49c4455-2756-420a-ad3f-9cb1fa1b8645" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RoundingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RoundingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Java/Calculator&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.LuckyNumber">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Chapter 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuckyNumber" />
       <module name="Chapter 6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sphere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sphere" />
-      <module name="Chapter 6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="XValue" />
       <module name="Chapter 6" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LuckyNumber" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.RoundingNumbers" />
         <item itemvalue="Application.ParkingReceipt" />
         <item itemvalue="Application.XValue" />
-        <item itemvalue="Application.Sphere" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,11 @@
           <url>file://$PROJECT_DIR$/src/Scope.java</url>
           <line>27</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calculator.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
