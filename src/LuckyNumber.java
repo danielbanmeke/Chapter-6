@@ -7,15 +7,20 @@ public class LuckyNumber {
         System.out.println("Enter a four-digit number: ");
         int n = input.nextInt();
 
-        if(!(n > 999))
-        int fourthDigit = n % 10;
-        int thirdDigit = (n / 10) % 10;
-        int secondDigit = (n / 100) % 10;
-        int firstDigit = (n / 1000) % 10;
+        if (!(n > 999 && n < 10000)){
+            System.out.println(n + " is not a four-digit number");
+        }
+        else {
 
-        if (firstDigit + secondDigit == thirdDigit + fourthDigit)
-            System.out.println("lucky");
-        else
-            System.out.println("not lucky");
+            int fourthDigit = n % 10;
+            int thirdDigit = (n / 10) % 10;
+            int secondDigit = (n / 100) % 10;
+            int firstDigit = (n / 1000) % 10;
+
+            if (firstDigit + secondDigit == thirdDigit + fourthDigit)
+                System.out.println("lucky");
+            else
+                System.out.println("not lucky");
+        }
     }
 }
