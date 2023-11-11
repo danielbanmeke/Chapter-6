@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49c4455-2756-420a-ad3f-9cb1fa1b8645" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/RoundPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exponentiation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Java/Calculator&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ParkingReceipt">
+  <component name="RunManager" selected="Application.Exponentiation">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Chapter 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exponentiation" />
       <module name="Chapter 6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,20 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoundingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RoundingNumbers" />
-      <module name="Chapter 6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exponentiation" />
         <item itemvalue="Application.ParkingReceipt" />
         <item itemvalue="Application.MaximumFinder" />
         <item itemvalue="Application.LuckyNumber" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.RoundingNumbers" />
       </list>
     </recent_temporary>
   </component>
